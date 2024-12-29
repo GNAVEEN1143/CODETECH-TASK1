@@ -8,6 +8,8 @@ Domain: Python Programming
 
 Duration: December 2024 to January 2025
 
+Mentor: N.Santosh
+
 
 Project: Basic Calculator Program
 
@@ -68,3 +70,6 @@ Conclusion:
 
 The Basic Calculator Python Program provides a straightforward and easy-to-use interface for performing basic arithmetic operations. It can be a useful tool for simple calculations while also serving as an excellent starting point for learners to practice and expand their Python skills. 
 With features such as error handling and the ability to extend functionality, this program is both practical and educational.
+
+
+![Screenshot 2024-12-29 213008](https://github.com/user-attachments/assets/4159766e-ae1a-47ef-bcb9-7a7f739bc64e)
